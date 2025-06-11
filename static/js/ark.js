@@ -1,7 +1,7 @@
 // ARK 配置
-var ARK_API_KEY = 'fc5def6d-547e-47ab-b70a-95e0391cbc67'; // 替换为你的 ARK API 密钥
+var ARK_API_KEY = 'mykey'; // 替换为你的 ARK API 密钥
 var ARK_API_URL = 'https://ark.cn-beijing.volces.com/api/v3/chat/completions';
-var ARK_API_MODEL = 'mykey'; // ARK 模型名称
+var ARK_API_MODEL = 'mymodel'; // ARK 模型名称
 
 /**
  * 调用 ARK 模型
